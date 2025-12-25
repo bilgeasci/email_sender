@@ -10,14 +10,7 @@ CSV Handling: Alıcı listesini dosyadan yönetme.
 
 Security: .env ile çevre değişkenleri yönetimi.
 
-📂 Dosya Yapısı
-Plaintext
 
-├── src/            # Mailer ve Template Engine
-├── templates/      # welcome_email.html, newsletter.html
-├── data/           # recipients.csv
-├── config/         # settings.py (.env okuyucu)
-└── tests/          # Unit testler
 🚀 Hızlı Başlangıç
 pip install python-dotenv
 
